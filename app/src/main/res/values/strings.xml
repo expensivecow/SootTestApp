@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_maps_key">AIzaSyDkfYZDwwVTxUzO-rA2mlvXYXyf_0PDM1k</string>
+    <string name="app_name">Hello World</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="go">Go</string>
+    <string name="enter_your_name_and_press_go">Enter your name and press go!</string>
+    <string name="defaultReply">Hello!</string>
+    <string name="defaultName">Mike</string>
+</resources>
